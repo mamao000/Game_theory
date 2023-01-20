@@ -1,42 +1,41 @@
 {
   "project_info": {
-    "project_number": "202052669324",
-    "firebase_url": "https://firenation-20647-default-rtdb.firebaseio.com",
-    "project_id": "firenation-20647",
-    "storage_bucket": "firenation-20647.appspot.com"
+    "project_number": "202328622588",
+    "project_id": "sign-in-b477b",
+    "storage_bucket": "sign-in-b477b.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:202052669324:android:1036c95ec831c90b9650a9",
+        "mobilesdk_app_id": "1:202328622588:android:48f5547c202bc7ca729e79",
         "android_client_info": {
           "package_name": "com.example.firebase"
         }
       },
       "oauth_client": [
         {
-          "client_id": "202052669324-6a8u33ho5unhmjv7i6l7evpc1il5b235.apps.googleusercontent.com",
+          "client_id": "202328622588-r2sta8082qseciofiinitima8eqqv0th.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.firebase",
-            "certificate_hash": "592977c8e2b2dae087105fc14ae8eaf5968d407e"
+            "certificate_hash": "a59696285fff72dbef18881b5760f69b21297f15"
           }
         },
         {
-          "client_id": "202052669324-vj6jamr2gvad6f4ocvsmho6oe1qt5qn2.apps.googleusercontent.com",
+          "client_id": "202328622588-o015lcl33502jp8tu2nfnpoplr2biv71.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyASlChiEI56MvLCO0iu9n_dO4Xk2Lysrzc"
+          "current_key": "AIzaSyDdmC7wC1WJ47EcXsTQd7v0-lNWt5QNHL4"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "202052669324-vj6jamr2gvad6f4ocvsmho6oe1qt5qn2.apps.googleusercontent.com",
+              "client_id": "202328622588-o015lcl33502jp8tu2nfnpoplr2biv71.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
