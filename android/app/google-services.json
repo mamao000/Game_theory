@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "202328622588",
+    "firebase_url": "https://sign-in-b477b-default-rtdb.firebaseio.com",
     "project_id": "sign-in-b477b",
     "storage_bucket": "sign-in-b477b.appspot.com"
   },
@@ -13,6 +14,14 @@
         }
       },
       "oauth_client": [
+        {
+          "client_id": "202328622588-c71f3rutu9uq7t0gjisj68ha1795ucqg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase",
+            "certificate_hash": "18683f836f55e19b8d15c2503013ef0531bf79f7"
+          }
+        },
         {
           "client_id": "202328622588-r2sta8082qseciofiinitima8eqqv0th.apps.googleusercontent.com",
           "client_type": 1,
