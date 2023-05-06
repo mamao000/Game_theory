@@ -35,3 +35,6 @@ Then run the following commands to run your app:
 - chewie
 - google authentication
 - Firebase Realtime Database
+
+## Download Link
+<img src='https://github.com/mamao000/Game_theory/blob/master/photos/qrcode_58926766_67fad184271ddcb190535040d9023a3e.png' align='left' width='30%'>
